@@ -8,7 +8,7 @@ LOLCAT ES UNA HERRAMIENTA PARA DEJAR MÁS BONITA TU TERMINAL
 </p>
 
 
-<a href='https://postimg.cc/MvxsF8Gk' target='_blank'><img src='https://i.postimg.cc/MKfhX62G/Picsart-22-11-07-22-00-50-632.jpg' border='0' alt='Picsart-22-11-07-22-00-50-632'/></a>
+<a href='https://postimg.cc/Z9d2YVKy' target='_blank'><img src='https://i.postimg.cc/d0HYBxbn/OMCDev-Mockup81120228059711.png' border='0' alt='OMCDev-Mockup81120228059711'/></a>
 
 # INSTRUCCIONES
 
