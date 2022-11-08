@@ -22,7 +22,7 @@ unzip master.zip
 
 cd lolcat-master/bin
 
-gen install lolcat 
+gem  install lolcat 
 
 rm -r lolcat-master.zip
 
